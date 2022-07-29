@@ -1,7 +1,7 @@
 # Chess-Game-2020
 This is the new repo of the original project. 
 
-**Use Qt Creator 6.3 to open the project, then build and run the code.**
+```Use Qt Creator 6.3 to open the project, then build and run the code.```
 
 Two years ago, I did this academic project for my c++ practice course, but there were too many "unnecessary" parts for the chess game itself, such as login or register module. These are redundant for the core contribution of the project, but are helpful to show my workload to get an 'A'.
 
