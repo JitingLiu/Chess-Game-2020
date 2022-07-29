@@ -5,4 +5,4 @@ Two years ago, I did this academic project for my c++ practice course, but there
 
 Therefore, I only retain the core part of the project: the alpha-beta algorithm and the Chess Board panel painted by Qt.
 
-![img text](https://github.com/Kenny-ting/Chess-Game-2020/blob/master/img-for-readme.png)
+<div align=center><img width="150" height="150" src="https://github.com/Kenny-ting/Chess-Game-2020/blob/master/img-for-readme.png"/></div>
